@@ -2,6 +2,6 @@
 This is hello world project for usage of Github
 I added this line in the "features" branch
 
-Hello, I'm Yerarslan Shayakhmetov!
+Hello, I'm Yerarslan Shayakhmetov at CUHK CSCI
 
-My student number is 1155133650
+My student Number is 1155133650
