@@ -1,5 +1,5 @@
 # Hello-World-Github
-This is hello word project for usage of Github
-I added this line in the "feaures" brang
-Hello, I'm Yerarslan Shayakhmetov at CUHK CSCI
-My student Number is 1155133650
+
+Hello, I'm Yerarslan Shayakhmetov!
+
+My student number is 1155133650
